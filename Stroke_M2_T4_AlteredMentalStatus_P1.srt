@@ -1,0 +1,362 @@
+1
+00:00:00,000 --> 00:00:00,500
+
+
+2
+00:00:00,500 --> 00:00:01,340
+Hi, everybody.
+
+3
+00:00:01,340 --> 00:00:04,230
+I am Marcelo Matiello,
+Assistant Professor
+
+4
+00:00:04,230 --> 00:00:08,400
+of Neurology at Harvard Medical School
+and In-Inpatient Medical Director
+
+5
+00:00:08,400 --> 00:00:10,740
+at MGH Neurology.
+
+6
+00:00:10,740 --> 00:00:13,920
+Today, we will talk about
+altered mental status
+
+7
+00:00:13,920 --> 00:00:19,590
+encephalopathies, which is a very common
+cause of consultations in the hospital.
+
+8
+00:00:19,590 --> 00:00:22,350
+So now let's move to the slides.
+
+9
+00:00:22,350 --> 00:00:29,680
+So today, we will cover the
+definition of altered mental status,
+
+10
+00:00:29,680 --> 00:00:32,700
+encephalopathy, and
+delirium, and highlight
+
+11
+00:00:32,700 --> 00:00:36,450
+the differences of such definitions.
+
+12
+00:00:36,450 --> 00:00:41,760
+We will present the elements of
+basic and advanced diagnostic workup
+
+13
+00:00:41,760 --> 00:00:44,340
+in cases of altered mental status.
+
+14
+00:00:44,340 --> 00:00:48,930
+And finally, we will discuss most
+common and key uncommon causes
+
+15
+00:00:48,930 --> 00:00:52,440
+of altered mental status
+that are seen by neurology
+
+16
+00:00:52,440 --> 00:00:55,550
+consultants in the hospital.
+
+17
+00:00:55,550 --> 00:00:59,010
+Today, we will start with a case.
+
+18
+00:00:59,010 --> 00:01:02,760
+And throughout the talk,
+we will have moments
+
+19
+00:01:02,760 --> 00:01:08,610
+in which we will check knowledge and the
+questions will be related to this case.
+
+20
+00:01:08,610 --> 00:01:12,870
+So I ask the attention
+to the simple history
+
+21
+00:01:12,870 --> 00:01:16,650
+that we will present for you here.
+
+22
+00:01:16,650 --> 00:01:19,620
+So the case is of a 65-year-old man.
+
+23
+00:01:19,620 --> 00:01:25,350
+He was found by friends and was brought
+to the ED with mental confusion.
+
+24
+00:01:25,350 --> 00:01:29,680
+At the time he was brought
+by EMS to the emergency room,
+
+25
+00:01:29,680 --> 00:01:33,330
+he had no family member with him.
+
+26
+00:01:33,330 --> 00:01:38,280
+We learned by calling the
+friends that two weeks ago he
+
+27
+00:01:38,280 --> 00:01:43,960
+experienced the onset of fluctuating
+disorientation and forgetfulness.
+
+28
+00:01:43,960 --> 00:01:46,860
+And he also had some strange
+behaviors, such as trying
+
+29
+00:01:46,860 --> 00:01:50,490
+to brush his teeth with his cell phone.
+
+30
+00:01:50,490 --> 00:01:53,640
+In the emergency room, the
+vital signs were normal
+
+31
+00:01:53,640 --> 00:01:56,490
+and the neuro exam was non focal.
+
+32
+00:01:56,490 --> 00:01:59,680
+There were no meningeal signs.
+
+33
+00:01:59,680 --> 00:02:04,300
+The blood counts, the basic
+metabolic panel, and the toxic screen
+
+34
+00:02:04,300 --> 00:02:07,640
+was negative.
+
+35
+00:02:07,640 --> 00:02:11,860
+So let's start by defining
+consciousness or mental status.
+
+36
+00:02:11,860 --> 00:02:16,240
+Consciousness is a combination
+of arousal and content.
+
+37
+00:02:16,240 --> 00:02:19,600
+Arousal refers to the
+level of alertness.
+
+38
+00:02:19,600 --> 00:02:22,390
+Pathologic states of
+arousal range anywhere
+
+39
+00:02:22,390 --> 00:02:26,890
+from coma, a state of
+complete unresponsiveness
+
+40
+00:02:26,890 --> 00:02:32,710
+without any eye opening, to drowsiness,
+in which a patient is arousable
+
+41
+00:02:32,710 --> 00:02:36,940
+but needs the stimulations
+to stay awake.
+
+42
+00:02:36,940 --> 00:02:42,220
+Arousal is maintained by
+various systems in the brain
+
+43
+00:02:42,220 --> 00:02:48,400
+and includes networks of neurons
+in the brain stem, hypothalamus,
+
+44
+00:02:48,400 --> 00:02:54,340
+basal forebrain, thalamus, and
+a number of cortex projections.
+
+45
+00:02:54,340 --> 00:02:58,960
+As you see here in our schematic
+view, many different centers
+
+46
+00:02:58,960 --> 00:03:01,195
+are working together to
+keep the brain awake.
+
+47
+00:03:01,195 --> 00:03:03,720
+
+
+48
+00:03:03,720 --> 00:03:07,680
+Consciousness also
+includes the content--
+
+49
+00:03:07,680 --> 00:03:09,720
+the content of the mind.
+
+50
+00:03:09,720 --> 00:03:13,260
+That refers to the high
+level cortical processing
+
+51
+00:03:13,260 --> 00:03:17,010
+that allows for awareness
+of self and environment,
+
+52
+00:03:17,010 --> 00:03:23,350
+and enables the interaction of a
+human being with the environment.
+
+53
+00:03:23,350 --> 00:03:27,310
+The contents of the
+consciousness is carried, again,
+
+54
+00:03:27,310 --> 00:03:31,780
+by many specific cortical
+regions in neuronal networks.
+
+55
+00:03:31,780 --> 00:03:35,390
+For instance, as you are
+seeing here in this figure,
+
+56
+00:03:35,390 --> 00:03:38,290
+there are areas of the
+cortex, they are focused
+
+57
+00:03:38,290 --> 00:03:44,800
+on producing language, understanding
+language, planning, decoding,
+
+58
+00:03:44,800 --> 00:03:46,780
+visual stimuli, and so on.
+
+59
+00:03:46,780 --> 00:03:49,450
+
+
+60
+00:03:49,450 --> 00:03:54,760
+Now let's go on to more of the clinical
+definition of altered mental status.
+
+61
+00:03:54,760 --> 00:04:00,750
+This is a term that is broadly defined
+as a change of the cognitive function
+
+62
+00:04:00,750 --> 00:04:02,880
+or level of consciousness.
+
+63
+00:04:02,880 --> 00:04:05,940
+As you're seeing here,
+it's a very inclusive term
+
+64
+00:04:05,940 --> 00:04:10,500
+and describes patients that have
+either a change of the content,
+
+65
+00:04:10,500 --> 00:04:12,885
+of the level of arousal, or both.
+
+66
+00:04:12,885 --> 00:04:15,510
+
+
+67
+00:04:15,510 --> 00:04:19,920
+Encephalopathy is more
+of a specific term
+
+68
+00:04:19,920 --> 00:04:24,000
+that is used in some
+cases interchangeably
+
+69
+00:04:24,000 --> 00:04:28,590
+with altered mental status,
+and implies the diffuse process
+
+70
+00:04:28,590 --> 00:04:31,980
+causing change in consciousness.
+
+71
+00:04:31,980 --> 00:04:36,180
+Finally, another term that
+is very commonly used--
+
+72
+00:04:36,180 --> 00:04:37,440
+delirium.
+
+73
+00:04:37,440 --> 00:04:41,670
+It's even a more specific term
+and it refers to the acute change
+
+74
+00:04:41,670 --> 00:04:46,380
+in mental status characterized
+by a deficit in attention
+
+75
+00:04:46,380 --> 00:04:50,310
+and the fluctuating course
+with disorganized thinking
+
+76
+00:04:50,310 --> 00:04:53,600
+and/or change in arousal.
+
+77
+00:04:53,600 --> 00:04:57,634
+And now let's take a brief
+pause to test your knowledge.
+
+78
+00:04:57,634 --> 00:04:58,134
